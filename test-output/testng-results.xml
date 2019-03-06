@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="67761" started-at="2019-02-11T14:48:38Z" finished-at="2019-02-11T14:49:46Z">
+  <suite name="Suite" duration-ms="48932" started-at="2019-02-13T11:01:11Z" finished-at="2019-02-13T11:02:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="67761" started-at="2019-02-11T14:48:38Z" finished-at="2019-02-11T14:49:46Z">
+    <test name="Test" duration-ms="48932" started-at="2019-02-13T11:01:11Z" finished-at="2019-02-13T11:02:00Z">
       <class name="com.fb.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="16831" started-at="2019-02-11T14:48:38Z" finished-at="2019-02-11T14:48:55Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="11276" started-at="2019-02-13T11:01:12Z" finished-at="2019-02-13T11:01:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="loginPageTitleTest" duration-ms="71" started-at="2019-02-11T14:48:55Z" finished-at="2019-02-11T14:48:55Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="loginPageTitleTest" duration-ms="468" started-at="2019-02-13T11:01:23Z" finished-at="2019-02-13T11:01:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="719" started-at="2019-02-11T14:48:55Z" finished-at="2019-02-11T14:48:56Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="687" started-at="2019-02-13T11:01:23Z" finished-at="2019-02-13T11:01:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="13713" started-at="2019-02-11T14:48:56Z" finished-at="2019-02-11T14:49:10Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="setUp" is-config="true" duration-ms="11044" started-at="2019-02-13T11:01:24Z" finished-at="2019-02-13T11:01:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="loginTest" duration-ms="35488" started-at="2019-02-11T14:49:10Z" finished-at="2019-02-11T14:49:45Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="loginTest" duration-ms="24466" started-at="2019-02-13T11:01:35Z" finished-at="2019-02-13T11:02:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="825" started-at="2019-02-11T14:49:45Z" finished-at="2019-02-11T14:49:46Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fb.testcases.LoginPageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="910" started-at="2019-02-13T11:02:00Z" finished-at="2019-02-13T11:02:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.fb.testcases.LoginPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
